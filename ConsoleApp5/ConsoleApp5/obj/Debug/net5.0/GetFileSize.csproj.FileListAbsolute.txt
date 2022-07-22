@@ -1,0 +1,32 @@
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.exe
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.deps.json
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.runtimeconfig.json
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.runtimeconfig.dev.json
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.dll
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.pdb
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.AssemblyInfo.cs
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.dll
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\refint\GetFileSize.dll
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.pdb
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.genruntimeconfig.cache
+C:\Users\muham\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ref\GetFileSize.dll
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.exe
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.deps.json
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.runtimeconfig.json
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.runtimeconfig.dev.json
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.dll
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\bin\Debug\net5.0\GetFileSize.pdb
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.AssemblyInfo.cs
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.dll
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\refint\GetFileSize.dll
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.pdb
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\GetFileSize.genruntimeconfig.cache
+C:\Users\muham\Desktop\File nomi va hajmi Linq\ConsoleApp5\ConsoleApp5\obj\Debug\net5.0\ref\GetFileSize.dll
